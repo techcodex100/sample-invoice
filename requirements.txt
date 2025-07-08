@@ -1,0 +1,4 @@
+fastapi
+pillow
+uvicorn==0.27.1
+pydantic
