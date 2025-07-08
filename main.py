@@ -11,7 +11,7 @@ COUNTER_FILE = "counter.txt"
 
 # ✅ Font Setup (Bold Arial or fallback)
 try:
-    FONT = ImageFont.truetype("arialbd.ttf", 30)
+    FONT = ImageFont.truetype("arialbd.ttf", 36)
 except:
     FONT = ImageFont.load_default()
 
